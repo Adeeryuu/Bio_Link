@@ -38,6 +38,7 @@ body {
     font-family: 'RussoOne';
     font-size: 24px;
     margin: 5px 0;
+    font-weight: 400;
 }
 
 .bio {
@@ -45,6 +46,7 @@ body {
     color: #dddddd;
     font-size: 14px;
     margin-bottom: 15px;
+    font-weight: 800;
 }
 
 .links {
